@@ -26,6 +26,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 |---|--------------|--------------|-------------------|-------------------|---------------|
 | 1 | [Easy Pronunciation](https://www.codechef.com/problems/EZSPEAK) | `EZSPEAK` | 822 (Beginner) | Beginner | [EasyProunciation.cpp](./Beginner/EasyProunciation.cpp) |
 | 2 | [ATM Machine](https://www.codechef.com/problems/ATM2) | `ATM2` | 1001 (Beginner) | Beginner | [AtmDispense.cpp](./Beginner/AtmDispense.cpp) |
+| 3 | [TCS Examination](https://www.codechef.com/problems/EXAMTIME) | `EXAMTIME` | 1000 (Beginner) | Beginner | [TCS_Examination.cpp](./Beginner/TCS_Examination.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
