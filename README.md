@@ -11,9 +11,8 @@ The solutions are organized by difficulty rating and category to make navigation
 ```text
 CodeChefSolutions/
 ├── Beginner/          # Solutions for Beginner level problems (Rating < 1000)
-├── Easy/              # Solutions for Easy level problems (Rating 1000 - 1400)
-├── Medium/            # Solutions for Medium level problems (Rating 1400 - 1800)
-├── Hard/              # Solutions for Hard level problems (Rating 1800+)
+├── Intermediate/      # Solutions for Intermediate level problems (Rating 1000 - 1600)
+├── Advanced/          # Solutions for Advanced level problems (Rating 1600+)
 └── README.md          # Project documentation and problem index
 ```
 
@@ -25,7 +24,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 
 | # | Problem Name | Problem Code | Difficulty Rating | Category / Folder | Solution File |
 |---|--------------|--------------|-------------------|-------------------|---------------|
-| 1 | [Easy Pronunciation](https://www.codechef.com/problems/EZSPEAK) | `EZSPEAK` | 822 (Beginner) | Beginner | [EasyProunciation.cpp](./EasyProunciation.cpp) |
+| 1 | [Easy Pronunciation](https://www.codechef.com/problems/EZSPEAK) | `EZSPEAK` | 822 (Beginner) | Beginner | [EasyProunciation.cpp](./Beginner/EasyProunciation.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
@@ -46,7 +45,7 @@ To compile and run any C++ solution file, use the following commands in your ter
 
 ```bash
 # Compile the source code
-g++ -O2 EasyProunciation.cpp -o solution
+g++ -O2 Beginner/EasyProunciation.cpp -o solution
 
 # Run the executable
 ./solution
@@ -58,7 +57,7 @@ g++ -O2 EasyProunciation.cpp -o solution
 
 When I solve a new problem on CodeChef, I follow this workflow to keep this repository updated:
 
-1. **Create the file** under the appropriate difficulty folder (e.g., `Beginner/`, `Easy/`, etc.) with a descriptive name.
+1. **Create the file** under the appropriate difficulty folder (e.g., `Beginner/`, `Intermediate/`, or `Advanced/`) with a descriptive name.
 2. **Implement and test** the solution.
 3. **Update the Problem Index** table in this `README.md` file.
 4. **Commit and push** the changes to GitHub:
