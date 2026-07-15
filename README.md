@@ -33,10 +33,11 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 7 | [Break the Stick](https://www.codechef.com/problems/BREAKSTICK) | `BREAKSTICK` | 1025 (Beginner) | Beginner | [Break_the_Stick.cpp](./Beginner/Break_the_Stick.cpp) |
 | 8 | [Encoding Message](https://www.codechef.com/problems/ENCMSG) | `ENCMSG` | 1027 (Beginner) | Beginner | [Encoding_Message.cpp](./Beginner/Encoding_Message.cpp) |
 | 9 | [Bear and Candies 123](https://www.codechef.com/problems/CANDY123) | `CANDY123` | 1028 (Beginner) | Beginner | [Bear_and_Candies_123.cpp](./Beginner/Bear_and_Candies_123.cpp) |
-| 10 | [Alternating Array](https://www.codechef.com/problems/ALTARR) | `ALTARR` | TBD (Beginner) | Beginner | [Alternating_Array.cpp](./Beginner/Alternating_Array.cpp) |
-| 11 | [Conveyor Belt](https://www.codechef.com/problems/CONVEYOR) | `CONVEYOR` | TBD (Beginner) | Beginner | [Conveyor_Belt.cpp](./Beginner/Conveyor_Belt.cpp) |
-| 12 | [Substring Shift](https://www.codechef.com/problems/STRINGSHIFT) | `STRINGSHIFT` | TBD (Intermediate) | Intermediate | [Substring_Shift.cpp](./Intermediate/Substring_Shift.cpp) |
-| 13 | [Fair Flipping (Easy)](https://www.codechef.com/problems/FLIP2K) | `FLIP2K` | TBD (Intermediate) | Intermediate | [Fair_Flipping(Easy).cpp](./Intermediate/Fair_Flipping(Easy).cpp) |
+| 10 | [Chef and Two Strings](https://www.codechef.com/problems/CHEFSTLT) | `CHEFSTLT` | 1036 (Beginner) | Beginner | [Chef_and_Two_Strings.cpp](./Beginner/Chef_and_Two_Strings.cpp) |
+| 11 | [Alternating Array](https://www.codechef.com/problems/ALTARR) | `ALTARR` | TBD (Beginner) | Beginner | [Alternating_Array.cpp](./Beginner/Alternating_Array.cpp) |
+| 12 | [Conveyor Belt](https://www.codechef.com/problems/CONVEYOR) | `CONVEYOR` | TBD (Beginner) | Beginner | [Conveyor_Belt.cpp](./Beginner/Conveyor_Belt.cpp) |
+| 13 | [Substring Shift](https://www.codechef.com/problems/STRINGSHIFT) | `STRINGSHIFT` | TBD (Intermediate) | Intermediate | [Substring_Shift.cpp](./Intermediate/Substring_Shift.cpp) |
+| 14 | [Fair Flipping (Easy)](https://www.codechef.com/problems/FLIP2K) | `FLIP2K` | TBD (Intermediate) | Intermediate | [Fair_Flipping(Easy).cpp](./Intermediate/Fair_Flipping(Easy).cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
