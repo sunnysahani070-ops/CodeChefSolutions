@@ -29,6 +29,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 3 | [TCS Examination](https://www.codechef.com/problems/EXAMTIME) | `EXAMTIME` | 1000 (Beginner) | Beginner | [TCS_Examination.cpp](./Beginner/TCS_Examination.cpp) |
 | 4 | [Adjacent Sum Parity](https://www.codechef.com/problems/ADJSUMPAR) | `ADJSUMPAR` | 1006 (Beginner) | Beginner | [AdjacentSumParity.cpp](./Beginner/AdjacentSumParity.cpp) |
 | 5 | [Candies](https://www.codechef.com/problems/CANDIES) | `CANDIES` | 1018 (Beginner) | Beginner | [Candies.cpp](./Beginner/Candies.cpp) |
+| 6 | [Chef Diet](https://www.codechef.com/problems/DIET) | `DIET` | 1018 (Beginner) | Beginner | [Chef_Diet.cpp](./Beginner/Chef_Diet.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
