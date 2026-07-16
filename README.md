@@ -44,6 +44,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 18 | [Substring Shift](https://www.codechef.com/problems/STRINGSHIFT) | `STRINGSHIFT` | 1358 (Intermediate) | Intermediate | [Substring_Shift.cpp](./Intermediate/Substring_Shift.cpp) |
 | 19 | [Fair Flipping (Easy)](https://www.codechef.com/problems/FLIP2K) | `FLIP2K` | 1608 (Intermediate) | Intermediate | [Fair_Flipping(Easy).cpp](./Intermediate/Fair_Flipping(Easy).cpp) |
 | 20 | [Prime Reversal](https://www.codechef.com/problems/PRIMEREVERSE) | `PRIMEREVERSE` | 1053 (Beginner) | Beginner | [Prime_Reversal.cpp](./Beginner/Prime_Reversal.cpp) |
+| 21 | [Hungry Ashish](https://www.codechef.com/problems/PIZZA_BURGER) | `PIZZA_BURGER` | 1064 (Beginner) | Beginner | [Hungry_Ashish.cpp](./Beginner/Hungry_Ashish.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
