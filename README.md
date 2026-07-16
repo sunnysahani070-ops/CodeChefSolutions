@@ -48,6 +48,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 22 | [Counting Problem](https://www.codechef.com/problems/COUNTP) | `COUNTP` | 1065 (Beginner) | Beginner | [Counting_Problem.cpp](./Beginner/Counting_Problem.cpp) |
 | 23 | [Prime Generator](https://www.codechef.com/problems/PRIME1) | `PRIME1` | 1069 (Beginner) | Beginner | [Prime_Generator.cpp](./Beginner/Prime_Generator.cpp) |
 | 24 | [Equalize AB](https://www.codechef.com/problems/EQUALIZEAB) | `EQUALIZEAB` | 1069 (Beginner) | Beginner | [Equalize_AB.cpp](./Beginner/Equalize_AB.cpp) |
+| 25 | [Three Friends](https://www.codechef.com/problems/THREEFRD) | `THREEFRD` | 1074 (Beginner) | Beginner | [Three_Friends.cpp](./Beginner/Three_Friends.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
