@@ -53,6 +53,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 27 | [Covid and Theatre Tickets](https://www.codechef.com/problems/COVID_19) | `COVID_19` | 1077 (Beginner) | Beginner | [Covid and Theatre Tickets.cpp](./Beginner/Covid%20and%20Theatre%20Tickets.cpp) |
 | 28 | [Digit Sum Parities](https://www.codechef.com/problems/DIGSMPAR) | `DIGSMPAR` | 1077 (Beginner) | Beginner | [Digit Sum Parities.cpp](./Beginner/Digit%20Sum%20Parities.cpp) |
 | 29 | [Magician versus Chef](https://www.codechef.com/problems/MAGICHF) | `MAGICHF` | 1088 (Beginner) | Beginner | [Magician versus Chef.cpp](./Beginner/Magician%20versus%20Chef.cpp) |
+| 30 | [Far Away](https://www.codechef.com/problems/FARAWAY) | `FARAWAY` | 1090 (Beginner) | Beginner | [Far Away.cpp](./Beginner/Far%20Away.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
