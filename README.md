@@ -56,6 +56,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 30 | [Far Away](https://www.codechef.com/problems/FARAWAY) | `FARAWAY` | 1090 (Beginner) | Beginner | [Far Away.cpp](./Beginner/Far%20Away.cpp) |
 | 31 | [Group Assignment](https://www.codechef.com/problems/GRPASSN) | `GRPASSN` | 1092 (Beginner) | Beginner | [Group_Assignment.cpp](./Beginner/Group_Assignment.cpp) |
 | 32 | [Uncle Johny](https://www.codechef.com/problems/JOHNY) | `JOHNY` | 1093 (Beginner) | Beginner | [Uncle Johny.cpp](./Beginner/Uncle%20Johny.cpp) |
+| 33 | [That Is My Score!](https://www.codechef.com/problems/WATSCORE) | `WATSCORE` | 1094 (Beginner) | Beginner | [That Is My Score!.cpp](./Beginner/That%20Is%20My%20Score%21.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
