@@ -55,6 +55,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 29 | [Magician versus Chef](https://www.codechef.com/problems/MAGICHF) | `MAGICHF` | 1088 (Beginner) | Beginner | [Magician versus Chef.cpp](./Beginner/Magician%20versus%20Chef.cpp) |
 | 30 | [Far Away](https://www.codechef.com/problems/FARAWAY) | `FARAWAY` | 1090 (Beginner) | Beginner | [Far Away.cpp](./Beginner/Far%20Away.cpp) |
 | 31 | [Group Assignment](https://www.codechef.com/problems/GRPASSN) | `GRPASSN` | 1092 (Beginner) | Beginner | [Group_Assignment.cpp](./Beginner/Group_Assignment.cpp) |
+| 32 | [Uncle Johny](https://www.codechef.com/problems/JOHNY) | `JOHNY` | 1093 (Beginner) | Beginner | [Uncle Johny.cpp](./Beginner/Uncle%20Johny.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
