@@ -49,6 +49,10 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 23 | [Prime Generator](https://www.codechef.com/problems/PRIME1) | `PRIME1` | 1069 (Beginner) | Beginner | [Prime_Generator.cpp](./Beginner/Prime_Generator.cpp) |
 | 24 | [Equalize AB](https://www.codechef.com/problems/EQUALIZEAB) | `EQUALIZEAB` | 1069 (Beginner) | Beginner | [Equalize_AB.cpp](./Beginner/Equalize_AB.cpp) |
 | 25 | [Three Friends](https://www.codechef.com/problems/THREEFRD) | `THREEFRD` | 1074 (Beginner) | Beginner | [Three_Friends.cpp](./Beginner/Three_Friends.cpp) |
+| 26 | [The Attack of Queen](https://www.codechef.com/problems/QUEENATTACK) | `QUEENATTACK` | 1076 (Beginner) | Beginner | [The Attack of Queen.cpp](./Beginner/The%20Attack%20of%20Queen.cpp) |
+| 27 | [Covid and Theatre Tickets](https://www.codechef.com/problems/COVID_19) | `COVID_19` | 1077 (Beginner) | Beginner | [Covid and Theatre Tickets.cpp](./Beginner/Covid%20and%20Theatre%20Tickets.cpp) |
+| 28 | [Digit Sum Parities](https://www.codechef.com/problems/DIGSMPAR) | `DIGSMPAR` | 1077 (Beginner) | Beginner | [Digit Sum Parities.cpp](./Beginner/Digit%20Sum%20Parities.cpp) |
+| 29 | [Magician versus Chef](https://www.codechef.com/problems/MAGICHF) | `MAGICHF` | 1088 (Beginner) | Beginner | [Magician versus Chef.cpp](./Beginner/Magician%20versus%20Chef.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
