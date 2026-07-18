@@ -61,6 +61,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 35 | [Bi-lindrome!](https://www.codechef.com/problems/QTOO_2523) | `QTOO_2523` | 1095 (Beginner) | Beginner | [Bi_lindrome!.cpp](./Beginner/Bi_lindrome%21.cpp) |
 | 36 | [Remove Bad elements](https://www.codechef.com/problems/REMOVEBAD) | `REMOVEBAD` | 1100 (Beginner) | Beginner | [RemoveBadElements.cpp](./Beginner/RemoveBadElements.cpp) |
 | 37 | [Football](https://www.codechef.com/problems/MSNSADM1) | `MSNSADM1` | 1102 (Beginner) | Beginner | [Football.cpp](./Beginner/Football.cpp) |
+| 38 | [String Game](https://www.codechef.com/problems/ABSTRING) | `ABSTRING` | 1102 (Beginner) | Beginner | [String_game.cpp](./Beginner/String_game.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
