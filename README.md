@@ -59,6 +59,8 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 33 | [That Is My Score!](https://www.codechef.com/problems/WATSCORE) | `WATSCORE` | 1094 (Beginner) | Beginner | [That Is My Score!.cpp](./Beginner/That%20Is%20My%20Score%21.cpp) |
 | 34 | [Chef and Strings](https://www.codechef.com/problems/CHEFSTR1) | `CHEFSTR1` | 1094 (Beginner) | Beginner | [Chef and Strings.cpp](./Beginner/Chef%20and%20Strings.cpp) |
 | 35 | [Bi-lindrome!](https://www.codechef.com/problems/QTOO_2523) | `QTOO_2523` | 1095 (Beginner) | Beginner | [Bi_lindrome!.cpp](./Beginner/Bi_lindrome%21.cpp) |
+| 36 | [Remove Bad elements](https://www.codechef.com/problems/REMOVEBAD) | `REMOVEBAD` | 1100 (Beginner) | Beginner | [RemoveBadElements.cpp](./Beginner/RemoveBadElements.cpp) |
+| 37 | [Football](https://www.codechef.com/problems/MSNSADM1) | `MSNSADM1` | 1102 (Beginner) | Beginner | [Football.cpp](./Beginner/Football.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
