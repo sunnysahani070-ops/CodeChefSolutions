@@ -63,6 +63,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 37 | [Football](https://www.codechef.com/problems/MSNSADM1) | `MSNSADM1` | 1102 (Beginner) | Beginner | [Football.cpp](./Beginner/Football.cpp) |
 | 38 | [String Game](https://www.codechef.com/problems/ABSTRING) | `ABSTRING` | 1102 (Beginner) | Beginner | [String_game.cpp](./Beginner/String_game.cpp) |
 | 39 | [Chef and Glove](https://www.codechef.com/problems/CHEGLOVE) | `CHEGLOVE` | 1104 (Beginner) | Beginner | [Chef and Glove.cpp](./Beginner/Chef%20and%20Glove.cpp) |
+| 40 | [Laptop Recommendation](https://www.codechef.com/problems/LAPTOPREC) | `LAPTOPREC` | 1104 (Beginner) | Beginner | [Laptop_Recommendation.cpp](./Beginner/Laptop_Recommendation.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
