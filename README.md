@@ -65,6 +65,13 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 39 | [Chef and Glove](https://www.codechef.com/problems/CHEGLOVE) | `CHEGLOVE` | 1104 (Beginner) | Beginner | [Chef and Glove.cpp](./Beginner/Chef%20and%20Glove.cpp) |
 | 40 | [Laptop Recommendation](https://www.codechef.com/problems/LAPTOPREC) | `LAPTOPREC` | 1104 (Beginner) | Beginner | [Laptop_Recommendation.cpp](./Beginner/Laptop_Recommendation.cpp) |
 | 41 | [Playing with Strings](https://www.codechef.com/problems/PLAYSTR) | `PLAYSTR` | 1108 (Beginner) | Beginner | [PlayingWithStrings.cpp](./Beginner/PlayingWithStrings.cpp) |
+| 42 | [Lazy Jem](https://www.codechef.com/problems/JEM) | `JEM` | 1109 (Beginner) | Beginner | [LazyJem.cpp](./Beginner/LazyJem.cpp) |
+| 43 | [Alternating String](https://www.codechef.com/problems/ALTSTR) | `ALTSTR` | 1109 (Beginner) | Beginner | [AlternatingStrings.cpp](./Beginner/AlternatingStrings.cpp) |
+| 44 | [Chef and Steps](https://www.codechef.com/problems/CHEFSTEP) | `CHEFSTEP` | 1109 (Beginner) | Beginner | [ChefAndSteps.cpp](./Beginner/ChefAndSteps.cpp) |
+| 45 | [Discrepancies in the Voters List](https://www.codechef.com/problems/VOTERS) | `VOTERS` | 1111 (Beginner) | Beginner | [Discrepancies in the Voters List.cpp](./Beginner/Discrepancies%20in%20the%20Voters%20List.cpp) |
+| 46 | [N-Queen Puzzle](https://www.codechef.com/problems/NQUEEN_PUZZEL) | `NQUEEN_PUZZEL` | 1113 (Beginner) | Beginner | [NQueen_PuzzelSoved.cpp](./Beginner/NQueen_PuzzelSoved.cpp) |
+| 47 | [Sort the String](https://www.codechef.com/problems/SORTSTR) | `SORTSTR` | 1114 (Beginner) | Beginner | [SortTheString.cpp](./Beginner/SortTheString.cpp) |
+
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
