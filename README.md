@@ -71,6 +71,8 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 45 | [Discrepancies in the Voters List](https://www.codechef.com/problems/VOTERS) | `VOTERS` | 1111 (Beginner) | Beginner | [Discrepancies in the Voters List.cpp](./Beginner/Discrepancies%20in%20the%20Voters%20List.cpp) |
 | 46 | [N-Queen Puzzle](https://www.codechef.com/problems/NQUEEN_PUZZEL) | `NQUEEN_PUZZEL` | 1113 (Beginner) | Beginner | [NQueen_PuzzelSoved.cpp](./Beginner/NQueen_PuzzelSoved.cpp) |
 | 47 | [Sort the String](https://www.codechef.com/problems/SORTSTR) | `SORTSTR` | 1114 (Beginner) | Beginner | [SortTheString.cpp](./Beginner/SortTheString.cpp) |
+| 48 | [Game of Pooks](https://www.codechef.com/problems/POOK) | `POOK` | 1115 (Beginner) | Beginner | [GameOfPooks.cpp](./Beginner/GameOfPooks.cpp) |
+
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
