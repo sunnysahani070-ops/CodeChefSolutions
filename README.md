@@ -72,6 +72,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 46 | [N-Queen Puzzle](https://www.codechef.com/problems/NQUEEN_PUZZEL) | `NQUEEN_PUZZEL` | 1113 (Beginner) | Beginner | [NQueen_PuzzelSoved.cpp](./Beginner/NQueen_PuzzelSoved.cpp) |
 | 47 | [Sort the String](https://www.codechef.com/problems/SORTSTR) | `SORTSTR` | 1114 (Beginner) | Beginner | [SortTheString.cpp](./Beginner/SortTheString.cpp) |
 | 48 | [Game of Pooks](https://www.codechef.com/problems/POOK) | `POOK` | 1115 (Beginner) | Beginner | [GameOfPooks.cpp](./Beginner/GameOfPooks.cpp) |
+| 49 | [Chef and Proportion](https://www.codechef.com/problems/CHEFCBA) | `CHEFCBA` | 1109 (Beginner) | Beginner | [ChefAndProportion.cpp](./Beginner/ChefAndProportion.cpp) |
 
 
 
