@@ -75,6 +75,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 49 | [Chef and Proportion](https://www.codechef.com/problems/CHEFCBA) | `CHEFCBA` | 1109 (Beginner) | Beginner | [ChefAndProportion.cpp](./Beginner/ChefAndProportion.cpp) |
 | 50 | [Stick Break](https://www.codechef.com/problems/STICKBREAK) | `STICKBREAK` | 1123 (Beginner) | Beginner | [StickBreak.cpp](./Beginner/StickBreak.cpp) |
 | 51 | [Processing a string](https://www.codechef.com/problems/KOL15A) | `KOL15A` | 1125 (Beginner) | Beginner | [Processing a string.cpp](./Beginner/Processing%20a%20string.cpp) |
+| 52 | [Chef and Card Game](https://www.codechef.com/problems/CRDGAME) | `CRDGAME` | 1125 (Beginner) | Beginner | [ChefandCardGame.cpp](./Beginner/ChefandCardGame.cpp) |
 
 
 
