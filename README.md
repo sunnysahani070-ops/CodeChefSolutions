@@ -76,6 +76,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 50 | [Stick Break](https://www.codechef.com/problems/STICKBREAK) | `STICKBREAK` | 1123 (Beginner) | Beginner | [StickBreak.cpp](./Beginner/StickBreak.cpp) |
 | 51 | [Processing a string](https://www.codechef.com/problems/KOL15A) | `KOL15A` | 1125 (Beginner) | Beginner | [Processing a string.cpp](./Beginner/Processing%20a%20string.cpp) |
 | 52 | [Chef and Card Game](https://www.codechef.com/problems/CRDGAME) | `CRDGAME` | 1125 (Beginner) | Beginner | [ChefandCardGame.cpp](./Beginner/ChefandCardGame.cpp) |
+| 53 | [Pet Store](https://www.codechef.com/problems/PETSTORE) | `PETSTORE` | 1124 (Beginner) | Beginner | [PetStorePractice.cpp](./Beginner/PetStorePractice.cpp) |
 
 
 
