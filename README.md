@@ -78,7 +78,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 52 | [Chef and Card Game](https://www.codechef.com/problems/CRDGAME) | `CRDGAME` | 1125 (Beginner) | Beginner | [ChefandCardGame.cpp](./Beginner/ChefandCardGame.cpp) |
 | 53 | [Pet Store](https://www.codechef.com/problems/PETSTORE) | `PETSTORE` | 1124 (Beginner) | Beginner | [PetStorePractice.cpp](./Beginner/PetStorePractice.cpp) |
 | 54 | [Mathison and pangrams](https://www.codechef.com/problems/MATPAN) | `MATPAN` | 1127 (Beginner) | Beginner | [Mathison and pangrams.cpp](./Beginner/Mathison%20and%20pangrams.cpp) |
-
+| 55 | [Valid Minimum](https://www.codechef.com/problems/VALIDMIN) | `VALIDMIN` | 1132 (Beginner) | Beginner | [ValidMinimum.cpp](./Beginner/ValidMinimum.cpp) |
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
