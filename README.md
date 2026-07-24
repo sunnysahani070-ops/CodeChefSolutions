@@ -84,6 +84,8 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 58 | [Coin Flip](https://www.codechef.com/problems/CONFLIP) | `CONFLIP` | 1135 (Beginner) | Beginner | [CoinFlip.cpp](./Beginner/CoinFlip.cpp) |
 | 59 | [Ciel and A-B Problem](https://www.codechef.com/problems/CIELAB) | `CIELAB` | 1135 (Beginner) | Beginner | [Ciel and A-B Problem.cpp](./Beginner/Ciel%20and%20A-B%20Problem.cpp) |
 | 60 | [Max Binary](https://www.codechef.com/problems/MAX_BIN) | `MAX_BIN` | 1143 (Beginner) | Beginner | [MaxBinary.cpp](./Beginner/MaxBinary.cpp) |
+| 61 | [Journey of the Knight](https://www.codechef.com/problems/KNIGHT2) | `KNIGHT2` | 1144 (Beginner) | Beginner | [Journey of the Knight.cpp](./Beginner/Journey%20of%20the%20Knight.cpp) |
+
 
 
 
