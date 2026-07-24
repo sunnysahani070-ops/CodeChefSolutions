@@ -81,6 +81,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 55 | [Valid Minimum](https://www.codechef.com/problems/VALIDMIN) | `VALIDMIN` | 1132 (Beginner) | Beginner | [ValidMinimum.cpp](./Beginner/ValidMinimum.cpp) |
 | 56 | [Easy Math](https://www.codechef.com/problems/RPD) | `RPD` | 1133 (Beginner) | Beginner | [EasyMath.cpp](./Beginner/EasyMath.cpp) |
 | 57 | [Fit in Data Type](https://www.codechef.com/problems/DATATYPE) | `DATATYPE` | 1133 (Beginner) | Beginner | [FitInDataType.cpp](./Beginner/FitInDataType.cpp) |
+| 58 | [Coin Flip](https://www.codechef.com/problems/CONFLIP) | `CONFLIP` | 1135 (Beginner) | Beginner | [CoinFlip.cpp](./Beginner/CoinFlip.cpp) |
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
