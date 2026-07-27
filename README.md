@@ -87,6 +87,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 61 | [Journey of the Knight](https://www.codechef.com/problems/KNIGHT2) | `KNIGHT2` | 1144 (Beginner) | Beginner | [Journey of the Knight.cpp](./Beginner/Journey%20of%20the%20Knight.cpp) |
 | 62 | [Minimum XOR](https://www.codechef.com/problems/MINMXOR) | `MINMXOR` | 1154 (Beginner) | Beginner | [MinimumXor.cpp](./Beginner/MinimumXor.cpp) |
 | 63 | [Large Square](https://www.codechef.com/problems/XLSQUARE) | `XLSQUARE` | 1160 (Beginner) | Beginner | [LargeSquare.cpp](./Beginner/LargeSquare.cpp) |
+| 64 | [Infernos](https://www.codechef.com/problems/INFERNOS) | `INFERNOS` | 1162 (Beginner) | Beginner | [InfernoPractice.cpp](./Beginner/InfernoPractice.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
