@@ -88,6 +88,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 62 | [Minimum XOR](https://www.codechef.com/problems/MINMXOR) | `MINMXOR` | 1154 (Beginner) | Beginner | [MinimumXor.cpp](./Beginner/MinimumXor.cpp) |
 | 63 | [Large Square](https://www.codechef.com/problems/XLSQUARE) | `XLSQUARE` | 1160 (Beginner) | Beginner | [LargeSquare.cpp](./Beginner/LargeSquare.cpp) |
 | 64 | [Infernos](https://www.codechef.com/problems/INFERNOS) | `INFERNOS` | 1162 (Beginner) | Beginner | [InfernoPractice.cpp](./Beginner/InfernoPractice.cpp) |
+| 65 | [Make Multiple](https://www.codechef.com/problems/MAKEMULTIPLE) | `MAKEMULTIPLE` | 1163 (Beginner) | Beginner | [MakeMultiple.cpp](./Beginner/MakeMultiple.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
