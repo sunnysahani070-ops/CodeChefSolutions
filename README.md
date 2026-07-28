@@ -92,6 +92,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 66 | [Balanced Reversals](https://www.codechef.com/problems/BALREVERSE) | `BALREVERSE` | 1165 (Beginner) | Beginner | [BalancedReversals.cpp](./Beginner/BalancedReversals.cpp) |
 | 67 | [IPL and RCB](https://www.codechef.com/problems/IPLER) | `IPLER` | 1167 (Beginner) | Beginner | [IPLandRCB.cpp](./Beginner/IPLandRCB.cpp) |
 | 68 | [Card Swipe](https://www.codechef.com/problems/CARDSWIPE) | `CARDSWIPE` | 1172 (Beginner) | Beginner | [CardSwipe.cpp](./Beginner/CardSwipe.cpp) |
+| 69 | [Movie Weekend](https://www.codechef.com/problems/MOVIEWKN) | `MOVIEWKN` | 1118 (Beginner) | Beginner | [MovieWeekend.cpp](./Beginner/MovieWeekend.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
