@@ -96,6 +96,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 70 | [Varied Digits](https://www.codechef.com/problems/VARDIGS) | `VARDIGS` | NA (Beginner) | Beginner | [VariedDigits.cpp](./Beginner/VariedDigits.cpp) |
 | 71 | [Buying GPU](https://www.codechef.com/problems/GPUBUY) | `GPUBUY` | NA (Beginner) | Beginner | [BuyingGpu.cpp](./Beginner/BuyingGpu.cpp) |
 | 72 | [Product Exceed](https://www.codechef.com/problems/PRDEXC) | `PRDEXC` | NA (Beginner) | Beginner | [ProductExceed.cpp](./Beginner/ProductExceed.cpp) |
+| 73 | [Up-Down Palindrome](https://www.codechef.com/problems/UPDWPAL) | `UPDWPAL` | NA (Beginner) | Beginner | [UpDownPalindrome.cpp](./Beginner/UpDownPalindrome.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
