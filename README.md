@@ -94,6 +94,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 68 | [Card Swipe](https://www.codechef.com/problems/CARDSWIPE) | `CARDSWIPE` | 1172 (Beginner) | Beginner | [CardSwipe.cpp](./Beginner/CardSwipe.cpp) |
 | 69 | [Movie Weekend](https://www.codechef.com/problems/MOVIEWKN) | `MOVIEWKN` | 1118 (Beginner) | Beginner | [MovieWeekend.cpp](./Beginner/MovieWeekend.cpp) |
 | 70 | [Varied Digits](https://www.codechef.com/problems/VARDIGS) | `VARDIGS` | NA (Beginner) | Beginner | [VariedDigits.cpp](./Beginner/VariedDigits.cpp) |
+| 71 | [Buying GPU](https://www.codechef.com/problems/GPUBUY) | `GPUBUY` | NA (Beginner) | Beginner | [BuyingGpu.cpp](./Beginner/BuyingGpu.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
