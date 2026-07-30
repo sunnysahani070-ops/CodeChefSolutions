@@ -101,6 +101,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 75 | [Count of Maximum](https://www.codechef.com/problems/MAXCOUNT) | `MAXCOUNT` | 1180 (Beginner) | Beginner | [CountOfMaximum.cpp](./Beginner/CountOfMaximum.cpp) |
 | 76 | [A Balanced Contest](https://www.codechef.com/problems/PERFCONT) | `PERFCONT` | 1184 (Beginner) | Beginner | [ABalancedContest.cpp](./Beginner/ABalancedContest.cpp) |
 | 77 | [Divisible by i](https://www.codechef.com/problems/DIVBYI) | `DIVBYI` | 1176 (Beginner) | Beginner | [DivisionByi.cpp](./Beginner/DivisionByi.cpp) |
+| 78 | [Chef and Work](https://www.codechef.com/problems/CHEFNWRK) | `CHEFNWRK` | 1185 (Beginner) | Beginner | [ChefAndWork.cpp](./Beginner/ChefAndWork.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
