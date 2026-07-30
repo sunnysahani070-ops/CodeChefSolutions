@@ -98,6 +98,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 72 | [Product Exceed](https://www.codechef.com/problems/PRDEXC) | `PRDEXC` | NA (Beginner) | Beginner | [ProductExceed.cpp](./Beginner/ProductExceed.cpp) |
 | 73 | [Up-Down Palindrome](https://www.codechef.com/problems/UPDWPAL) | `UPDWPAL` | NA (Beginner) | Beginner | [UpDownPalindrome.cpp](./Beginner/UpDownPalindrome.cpp) |
 | 74 | [Chef and Groups](https://www.codechef.com/problems/GROUPS) | `GROUPS` | 1176 (Beginner) | Beginner | [ChefAndGroups.cpp](./Beginner/ChefAndGroups.cpp) |
+| 75 | [Count of Maximum](https://www.codechef.com/problems/MAXCOUNT) | `MAXCOUNT` | 1180 (Beginner) | Beginner | [CountOfMaximum.cpp](./Beginner/CountOfMaximum.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
