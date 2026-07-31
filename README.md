@@ -105,6 +105,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 79 | [Buy1-Get1](https://www.codechef.com/problems/BUY1GET1) | `BUY1GET1` | 1191 (Beginner) | Beginner | [Buy1Get1.cpp](./Beginner/Buy1Get1.cpp) |
 | 80 | [Chef and Subarray](https://www.codechef.com/problems/CHEFZOT) | `CHEFZOT` | 1191 (Beginner) | Beginner | [ChefAndSubbarray.cpp](./Beginner/ChefAndSubbarray.cpp) |
 | 81 | [Retrieve the Array](https://www.codechef.com/problems/RETRIEVE) | `RETRIEVE` | 1193 (Beginner) | Beginner | [RetrieveTheArray.cpp](./Beginner/RetrieveTheArray.cpp) |
+| 82 | [Convert to permutation](https://www.codechef.com/problems/PERMUTATION) | `PERMUTATION` | 1197 (Beginner) | Beginner | [ConvertToPermutation.cpp](./Beginner/ConvertToPermutation.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
