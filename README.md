@@ -107,6 +107,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 81 | [Retrieve the Array](https://www.codechef.com/problems/RETRIEVE) | `RETRIEVE` | 1193 (Beginner) | Beginner | [RetrieveTheArray.cpp](./Beginner/RetrieveTheArray.cpp) |
 | 82 | [Convert to permutation](https://www.codechef.com/problems/PERMUTATION) | `PERMUTATION` | 1197 (Beginner) | Beginner | [ConvertToPermutation.cpp](./Beginner/ConvertToPermutation.cpp) |
 | 83 | [Trace of Matrix](https://www.codechef.com/problems/TRACE) | `TRACE` | 1198 (Beginner) | Beginner | [TraceOfMatrix.cpp](./Beginner/TraceOfMatrix.cpp) |
+| 84 | [Average Permutation](https://www.codechef.com/problems/AVGPERM) | `AVGPERM` | 1400 (Intermediate) | Intermediate | [AveragePermutation.cpp](./Intermediate/AveragePermutation.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
