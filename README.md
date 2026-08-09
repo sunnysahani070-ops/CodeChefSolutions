@@ -108,6 +108,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 82 | [Convert to permutation](https://www.codechef.com/problems/PERMUTATION) | `PERMUTATION` | 1197 (Beginner) | Beginner | [ConvertToPermutation.cpp](./Beginner/ConvertToPermutation.cpp) |
 | 83 | [Trace of Matrix](https://www.codechef.com/problems/TRACE) | `TRACE` | 1198 (Beginner) | Beginner | [TraceOfMatrix.cpp](./Beginner/TraceOfMatrix.cpp) |
 | 84 | [Average Permutation](https://www.codechef.com/problems/AVGPERM) | `AVGPERM` | 1400 (Intermediate) | Intermediate | [AveragePermutation.cpp](./Intermediate/AveragePermutation.cpp) |
+| 85 | [Hotel Bytelandia](https://www.codechef.com/problems/HOTEL) | `HOTEL` | 1406 (Intermediate) | Intermediate | [HotelBytelandia.cpp](./Intermediate/HotelBytelandia.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
