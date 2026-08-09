@@ -111,6 +111,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 85 | [Hotel Bytelandia](https://www.codechef.com/problems/HOTEL) | `HOTEL` | 1406 (Intermediate) | Intermediate | [HotelBytelandia.cpp](./Intermediate/HotelBytelandia.cpp) |
 | 86 | [Mighty Friend](https://www.codechef.com/problems/MTYFRI) | `MTYFRI` | 1406 (Intermediate) | Intermediate | [MightyFriend.cpp](./Intermediate/MightyFriend.cpp) |
 | 87 | [Array Halves](https://www.codechef.com/problems/ARRHALVES) | `ARRHALVES` | 1407 (Intermediate) | Intermediate | [ArrayHalves.cpp](./Intermediate/ArrayHalves.cpp) |
+| 88 | [Bella Ciao](https://www.codechef.com/problems/CHFHEIST) | `CHFHEIST` | 1410 (Intermediate) | Intermediate | [BellaCiao.cpp](./Intermediate/BellaCiao.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
