@@ -112,6 +112,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 86 | [Mighty Friend](https://www.codechef.com/problems/MTYFRI) | `MTYFRI` | 1406 (Intermediate) | Intermediate | [MightyFriend.cpp](./Intermediate/MightyFriend.cpp) |
 | 87 | [Array Halves](https://www.codechef.com/problems/ARRHALVES) | `ARRHALVES` | 1407 (Intermediate) | Intermediate | [ArrayHalves.cpp](./Intermediate/ArrayHalves.cpp) |
 | 88 | [Bella Ciao](https://www.codechef.com/problems/CHFHEIST) | `CHFHEIST` | 1410 (Intermediate) | Intermediate | [BellaCiao.cpp](./Intermediate/BellaCiao.cpp) |
+| 89 | [Plusle and Minun on Array](https://www.codechef.com/problems/PMA) | `PMA` | 1412 (Intermediate) | Intermediate | [PlusleandMinunOnArray.cpp](./Intermediate/PlusleandMinunOnArray.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
