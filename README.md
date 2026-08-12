@@ -114,6 +114,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 88 | [Bella Ciao](https://www.codechef.com/problems/CHFHEIST) | `CHFHEIST` | 1410 (Intermediate) | Intermediate | [BellaCiao.cpp](./Intermediate/BellaCiao.cpp) |
 | 89 | [Plusle and Minun on Array](https://www.codechef.com/problems/PMA) | `PMA` | 1412 (Intermediate) | Intermediate | [PlusleandMinunOnArray.cpp](./Intermediate/PlusleandMinunOnArray.cpp) |
 | 90 | [String Game](https://www.codechef.com/problems/STRAME) | `STRAME` | 1413 (Intermediate) | Intermediate | [StringGame.cpp](./Intermediate/StringGame.cpp) |
+| 91 | [Remove Element](https://www.codechef.com/problems/REMELEM) | `REMELEM` | 1415 (Intermediate) | Intermediate | [RemoveElement.cpp](./Intermediate/RemoveElement.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
