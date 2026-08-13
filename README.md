@@ -120,6 +120,8 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 94 | [Equality](https://www.codechef.com/problems/EQUALITY) | `EQUALITY` | 1419 (Intermediate) | Intermediate | [EqualityPractice.cpp](./Intermediate/EqualityPractice.cpp) |
 | 95 | [Fit to Play](https://www.codechef.com/problems/PLAYFIT) | `PLAYFIT` | 1419 (Intermediate) | Intermediate | [FitToPlay.cpp](./Intermediate/FitToPlay.cpp) |
 | 96 | [Average Array](https://www.codechef.com/problems/AVGARR) | `AVGARR` | 1424 (Intermediate) | Intermediate | [AverageArray.cpp](./Intermediate/AverageArray.cpp) |
+| 97 | [Chocolate Game](https://www.codechef.com/problems/CHOCGM) | `CHOCGM` | 1320 (Intermediate) | Intermediate | [ChoclateGame.cpp](./Intermediate/ChoclateGame.cpp) |
+
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
