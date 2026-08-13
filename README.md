@@ -116,6 +116,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 90 | [String Game](https://www.codechef.com/problems/STRAME) | `STRAME` | 1413 (Intermediate) | Intermediate | [StringGame.cpp](./Intermediate/StringGame.cpp) |
 | 91 | [Remove Element](https://www.codechef.com/problems/REMELEM) | `REMELEM` | 1415 (Intermediate) | Intermediate | [RemoveElement.cpp](./Intermediate/RemoveElement.cpp) |
 | 92 | [Maximize Colours](https://www.codechef.com/problems/COLOUR) | `COLOUR` | 1415 (Intermediate) | Intermediate | [MaximizeColors.cpp](./Intermediate/MaximizeColors.cpp) |
+| 93 | [Fit to Play](https://www.codechef.com/problems/PLAYFIT) | `PLAYFIT` | 1419 (Intermediate) | Intermediate | [FitToPlay.cpp](./Intermediate/FitToPlay.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
