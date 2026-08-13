@@ -107,17 +107,18 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 81 | [Retrieve the Array](https://www.codechef.com/problems/RETRIEVE) | `RETRIEVE` | 1193 (Beginner) | Beginner | [RetrieveTheArray.cpp](./Beginner/RetrieveTheArray.cpp) |
 | 82 | [Convert to permutation](https://www.codechef.com/problems/PERMUTATION) | `PERMUTATION` | 1197 (Beginner) | Beginner | [ConvertToPermutation.cpp](./Beginner/ConvertToPermutation.cpp) |
 | 83 | [Trace of Matrix](https://www.codechef.com/problems/TRACE) | `TRACE` | 1198 (Beginner) | Beginner | [TraceOfMatrix.cpp](./Beginner/TraceOfMatrix.cpp) |
-| 84 | [Average Permutation](https://www.codechef.com/problems/AVGPERM) | `AVGPERM` | 1400 (Intermediate) | Intermediate | [AveragePermutation.cpp](./Intermediate/AveragePermutation.cpp) |
-| 85 | [Hotel Bytelandia](https://www.codechef.com/problems/HOTEL) | `HOTEL` | 1406 (Intermediate) | Intermediate | [HotelBytelandia.cpp](./Intermediate/HotelBytelandia.cpp) |
-| 86 | [Mighty Friend](https://www.codechef.com/problems/MTYFRI) | `MTYFRI` | 1406 (Intermediate) | Intermediate | [MightyFriend.cpp](./Intermediate/MightyFriend.cpp) |
-| 87 | [Array Halves](https://www.codechef.com/problems/ARRHALVES) | `ARRHALVES` | 1407 (Intermediate) | Intermediate | [ArrayHalves.cpp](./Intermediate/ArrayHalves.cpp) |
-| 88 | [Bella Ciao](https://www.codechef.com/problems/CHFHEIST) | `CHFHEIST` | 1410 (Intermediate) | Intermediate | [BellaCiao.cpp](./Intermediate/BellaCiao.cpp) |
-| 89 | [Plusle and Minun on Array](https://www.codechef.com/problems/PMA) | `PMA` | 1412 (Intermediate) | Intermediate | [PlusleandMinunOnArray.cpp](./Intermediate/PlusleandMinunOnArray.cpp) |
-| 90 | [String Game](https://www.codechef.com/problems/STRAME) | `STRAME` | 1413 (Intermediate) | Intermediate | [StringGame.cpp](./Intermediate/StringGame.cpp) |
-| 91 | [Remove Element](https://www.codechef.com/problems/REMELEM) | `REMELEM` | 1415 (Intermediate) | Intermediate | [RemoveElement.cpp](./Intermediate/RemoveElement.cpp) |
-| 92 | [Maximize Colours](https://www.codechef.com/problems/COLOUR) | `COLOUR` | 1415 (Intermediate) | Intermediate | [MaximizeColors.cpp](./Intermediate/MaximizeColors.cpp) |
-| 93 | [Equality](https://www.codechef.com/problems/EQUALITY) | `EQUALITY` | 1419 (Intermediate) | Intermediate | [EqualityPractice.cpp](./Intermediate/EqualityPractice.cpp) |
-| 94 | [Fit to Play](https://www.codechef.com/problems/PLAYFIT) | `PLAYFIT` | 1419 (Intermediate) | Intermediate | [FitToPlay.cpp](./Intermediate/FitToPlay.cpp) |
+| 84 | [Decreasing Srrnmieeda](https://www.codechef.com/problems/DECREM) | `DECREM` | 1386 (Intermediate) | Intermediate | [DecreasingSrrnmieeda.cpp](./Intermediate/DecreasingSrrnmieeda.cpp) |
+| 85 | [Average Permutation](https://www.codechef.com/problems/AVGPERM) | `AVGPERM` | 1400 (Intermediate) | Intermediate | [AveragePermutation.cpp](./Intermediate/AveragePermutation.cpp) |
+| 86 | [Hotel Bytelandia](https://www.codechef.com/problems/HOTEL) | `HOTEL` | 1406 (Intermediate) | Intermediate | [HotelBytelandia.cpp](./Intermediate/HotelBytelandia.cpp) |
+| 87 | [Mighty Friend](https://www.codechef.com/problems/MTYFRI) | `MTYFRI` | 1406 (Intermediate) | Intermediate | [MightyFriend.cpp](./Intermediate/MightyFriend.cpp) |
+| 88 | [Array Halves](https://www.codechef.com/problems/ARRHALVES) | `ARRHALVES` | 1407 (Intermediate) | Intermediate | [ArrayHalves.cpp](./Intermediate/ArrayHalves.cpp) |
+| 89 | [Bella Ciao](https://www.codechef.com/problems/CHFHEIST) | `CHFHEIST` | 1410 (Intermediate) | Intermediate | [BellaCiao.cpp](./Intermediate/BellaCiao.cpp) |
+| 90 | [Plusle and Minun on Array](https://www.codechef.com/problems/PMA) | `PMA` | 1412 (Intermediate) | Intermediate | [PlusleandMinunOnArray.cpp](./Intermediate/PlusleandMinunOnArray.cpp) |
+| 91 | [String Game](https://www.codechef.com/problems/STRAME) | `STRAME` | 1413 (Intermediate) | Intermediate | [StringGame.cpp](./Intermediate/StringGame.cpp) |
+| 92 | [Remove Element](https://www.codechef.com/problems/REMELEM) | `REMELEM` | 1415 (Intermediate) | Intermediate | [RemoveElement.cpp](./Intermediate/RemoveElement.cpp) |
+| 93 | [Maximize Colours](https://www.codechef.com/problems/COLOUR) | `COLOUR` | 1415 (Intermediate) | Intermediate | [MaximizeColors.cpp](./Intermediate/MaximizeColors.cpp) |
+| 94 | [Equality](https://www.codechef.com/problems/EQUALITY) | `EQUALITY` | 1419 (Intermediate) | Intermediate | [EqualityPractice.cpp](./Intermediate/EqualityPractice.cpp) |
+| 95 | [Fit to Play](https://www.codechef.com/problems/PLAYFIT) | `PLAYFIT` | 1419 (Intermediate) | Intermediate | [FitToPlay.cpp](./Intermediate/FitToPlay.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
