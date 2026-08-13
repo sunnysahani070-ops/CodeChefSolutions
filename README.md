@@ -119,6 +119,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 93 | [Maximize Colours](https://www.codechef.com/problems/COLOUR) | `COLOUR` | 1415 (Intermediate) | Intermediate | [MaximizeColors.cpp](./Intermediate/MaximizeColors.cpp) |
 | 94 | [Equality](https://www.codechef.com/problems/EQUALITY) | `EQUALITY` | 1419 (Intermediate) | Intermediate | [EqualityPractice.cpp](./Intermediate/EqualityPractice.cpp) |
 | 95 | [Fit to Play](https://www.codechef.com/problems/PLAYFIT) | `PLAYFIT` | 1419 (Intermediate) | Intermediate | [FitToPlay.cpp](./Intermediate/FitToPlay.cpp) |
+| 96 | [Average Array](https://www.codechef.com/problems/AVGARR) | `AVGARR` | 1424 (Intermediate) | Intermediate | [AverageArray.cpp](./Intermediate/AverageArray.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
