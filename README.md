@@ -122,6 +122,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 96 | [Average Array](https://www.codechef.com/problems/AVGARR) | `AVGARR` | 1424 (Intermediate) | Intermediate | [AverageArray.cpp](./Intermediate/AverageArray.cpp) |
 | 97 | [Chocolate Game](https://www.codechef.com/problems/CHOCGM) | `CHOCGM` | 1320 (Intermediate) | Intermediate | [ChoclateGame.cpp](./Intermediate/ChoclateGame.cpp) |
 | 98 | [Parallel Processing](https://www.codechef.com/problems/PLPROCESS) | `PLPROCESS` | 1425 (Intermediate) | Intermediate | [ParallelProcessing.cpp](./Intermediate/ParallelProcessing.cpp) |
+| 99 | [Full Barrier Alchemist](https://www.codechef.com/problems/PIPSQUIK) | `PIPSQUIK` | 1426 (Intermediate) | Intermediate | [FullBarrierAlchemist.cpp](./Intermediate/FullBarrierAlchemist.cpp) |
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
