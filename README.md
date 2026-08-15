@@ -123,6 +123,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 97 | [Chocolate Game](https://www.codechef.com/problems/CHOCGM) | `CHOCGM` | 1320 (Intermediate) | Intermediate | [ChoclateGame.cpp](./Intermediate/ChoclateGame.cpp) |
 | 98 | [Parallel Processing](https://www.codechef.com/problems/PLPROCESS) | `PLPROCESS` | 1425 (Intermediate) | Intermediate | [ParallelProcessing.cpp](./Intermediate/ParallelProcessing.cpp) |
 | 99 | [Full Barrier Alchemist](https://www.codechef.com/problems/PIPSQUIK) | `PIPSQUIK` | 1426 (Intermediate) | Intermediate | [FullBarrierAlchemist.cpp](./Intermediate/FullBarrierAlchemist.cpp) |
+| 100 | [Balanced and Unique Arrays](https://www.codechef.com/problems/UNQEQ) | `UNQEQ` | 1431 (Intermediate) | Intermediate | [BalancesAndUniqueArray.cpp](./Intermediate/BalancesAndUniqueArray.cpp) |
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
