@@ -125,6 +125,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 99 | [Full Barrier Alchemist](https://www.codechef.com/problems/PIPSQUIK) | `PIPSQUIK` | 1426 (Intermediate) | Intermediate | [FullBarrierAlchemist.cpp](./Intermediate/FullBarrierAlchemist.cpp) |
 | 100 | [Balanced and Unique Arrays](https://www.codechef.com/problems/UNQEQ) | `UNQEQ` | 1431 (Intermediate) | Intermediate | [BalancesAndUniqueArray.cpp](./Intermediate/BalancesAndUniqueArray.cpp) |
 | 101 | [Maximum Angriness](https://www.codechef.com/problems/MAXAGRY) | `MAXAGRY` | 1432 (Intermediate) | Intermediate | [MaximumAngrieness.cpp](./Intermediate/MaximumAngrieness.cpp) |
+| 102 | [Permutation XORity](https://www.codechef.com/problems/PERMXORITY) | `PERMXORITY` | 1437 (Intermediate) | Intermediate | [PermutationXority.cpp](./Intermediate/PermutationXority.cpp) |
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
