@@ -131,6 +131,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 105 | [Chef and Coins Game](https://www.codechef.com/problems/CHCOINSG) | `CHCOINSG` | 1442 (Intermediate) | Intermediate | [ChefAndCoins.cpp](./Intermediate/ChefAndCoins.cpp) |
 | 106 | [Make Array Odd](https://www.codechef.com/problems/MAKEARRAYODD) | `MAKEARRAYODD` | 1445 (Intermediate) | Intermediate | [MakeArrayOdd.cpp](./Intermediate/MakeArrayOdd.cpp) |
 | 107 | [Cutting Pizza](https://www.codechef.com/problems/CUTPIZ) | `CUTPIZ` | 1446 (Intermediate) | Intermediate | [cuttingPizza.cpp](./Intermediate/cuttingPizza.cpp) |
+| 108 | [Counting Flags](https://www.codechef.com/problems/FLAGS) | `FLAGS` | 1446 (Intermediate) | Intermediate | [CountingFlags.cpp](./Intermediate/CountingFlags.cpp) |
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
