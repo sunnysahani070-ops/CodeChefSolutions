@@ -129,6 +129,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 103 | [Akash and Dinner](https://www.codechef.com/problems/AKASHANDDINNER) | `AKASHANDDINNER` | 1438 (Intermediate) | Intermediate | [AkashAndDinner.cpp](./Intermediate/AkashAndDinner.cpp) |
 | 104 | [HTML Tags](https://www.codechef.com/problems/HTMLTAGS) | `HTMLTAGS` | 1441 (Intermediate) | Intermediate | [HtmlTagsPractice.cpp](./Intermediate/HtmlTagsPractice.cpp) |
 | 105 | [Chef and Coins Game](https://www.codechef.com/problems/CHCOINSG) | `CHCOINSG` | 1442 (Intermediate) | Intermediate | [ChefAndCoins.cpp](./Intermediate/ChefAndCoins.cpp) |
+| 106 | [Make Array Odd](https://www.codechef.com/problems/MAKEARRAYODD) | `MAKEARRAYODD` | 1445 (Intermediate) | Intermediate | [MakeArrayOdd.cpp](./Intermediate/MakeArrayOdd.cpp) |
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
