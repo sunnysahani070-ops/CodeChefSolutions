@@ -12,6 +12,5 @@ int main() {
         cin>>l>>r;
        cout<<r/3-(l-1)/3<<endl;
     }
-	// your code goes here
 	return 0;
 }

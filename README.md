@@ -134,6 +134,8 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 108 | [Counting Flags](https://www.codechef.com/problems/FLAGS) | `FLAGS` | 1446 (Intermediate) | Intermediate | [CountingFlags.cpp](./Intermediate/CountingFlags.cpp) |
 | 109 | [Control the Pollution](https://www.codechef.com/problems/SMOKE) | `SMOKE` | 1450 (Intermediate) | Intermediate | [ControlThePolluton.cpp](./Intermediate/ControlThePolluton.cpp) |
 | 110 | [Yet Another SOD Problem](https://www.codechef.com/problems/SOD3) | `SOD3` | 1459 (Intermediate) | Intermediate | [YetAnotherSOD.cpp](./Intermediate/YetAnotherSOD.cpp) |
+| 111 | [Chef and Adventures](https://www.codechef.com/problems/CHEFADV) | `CHEFADV` | 1462 (Intermediate) | Intermediate | [ChefAndAdventures.cpp](./Intermediate/ChefAndAdventures.cpp) |
+
 
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
