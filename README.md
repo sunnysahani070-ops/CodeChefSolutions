@@ -138,6 +138,8 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 112 | [Magical Planks](https://www.codechef.com/problems/MKGPLNKS) | `MKGPLNKS` | 1467 (Intermediate) | Intermediate | [MagicalPlanks.cpp](./Intermediate/MagicalPlanks.cpp) |
 | 113 | [Approximately II](https://www.codechef.com/problems/APPROX2) | `APPROX2` | 1467 (Intermediate) | Intermediate | [ApproximatelyII.cpp](./Intermediate/ApproximatelyII.cpp) |
 | 114 | [Magic Set](https://www.codechef.com/problems/MGCSET) | `MGCSET` | 1472 (Intermediate) | Intermediate | [MagicSet.cpp](./Intermediate/MagicSet.cpp) |
+| 115 | [Chef and Three Dogs](https://www.codechef.com/problems/CHDOGS) | `CHDOGS` | 1473 (Intermediate) | Intermediate | [ChefAndThreeDogs.cpp](./Intermediate/ChefAndThreeDogs.cpp) |
+
 
 
 
