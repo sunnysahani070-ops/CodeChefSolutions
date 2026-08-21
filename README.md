@@ -140,6 +140,7 @@ Here is a list of CodeChef problems I have solved, along with links to the code 
 | 114 | [Magic Set](https://www.codechef.com/problems/MGCSET) | `MGCSET` | 1472 (Intermediate) | Intermediate | [MagicSet.cpp](./Intermediate/MagicSet.cpp) |
 | 115 | [Chef and Three Dogs](https://www.codechef.com/problems/CHDOGS) | `CHDOGS` | 1473 (Intermediate) | Intermediate | [ChefAndThreeDogs.cpp](./Intermediate/ChefAndThreeDogs.cpp) |
 | 116 | [Order by XOR](https://www.codechef.com/problems/XOR_ORDER) | `XOR_ORDER` | 1476 (Intermediate) | Intermediate | [OrderByXOR.cpp](./Intermediate/OrderByXOR.cpp) |
+| 117 | [Chef and Numbers](https://www.codechef.com/problems/CHEFFED) | `CHEFFED` | 1477 (Intermediate) | Intermediate | [ChefAndNumbers.cpp](./Intermediate/ChefAndNumbers.cpp) |
 
 *(Note: Click on the Problem Name to view the problem statement on CodeChef, and the Solution File to view the C++ implementation.)*
 
